@@ -14,13 +14,13 @@ Requires AHK (AutoHotKey). Setup is included in this repo.
 1. Download the repository
 2. If you don't have AHK (chances are you don't), run the setup (it is the tiniest of installs :D )
 
-![Alt Text](imgs/img1.png)
+![img1](imgs/img1.PNG)
 
 3. Run 'ads_toggle'
 
-![Alt Text](imgs/img2.png)
+![img1](imgs/img2.PNG)
 
 4. Set the key that you will use to turn on the script and the key to shut it off (once it's shut down it can be turned on again by pressing the "turn on" key again)
 5. Click "Run"
 
-![Alt Text](imgs/img3.png)
+![img1](imgs/img3.PNG)
